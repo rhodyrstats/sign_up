@@ -10,3 +10,4 @@ To re-use this for meetings:
 5. paste the id: in the YAML
 6. update the topic: in the YAML
 7. save, commit, and push.
+8. Submit PR
